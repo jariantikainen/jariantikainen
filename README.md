@@ -23,5 +23,5 @@ I'm Jari. I am a Front-End Developer and Designer learning Full-Stack!<br><br>
 
 --- 
 
-### ![Jaris's GitHub lang stats](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jariantikainen&theme=aura&show_icons=true"/>)
+### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jariantikainen&theme=aura&show_icons=true"/>
 
